@@ -1,0 +1,5 @@
+Lorsqu'on exécute le fichier "exo_04.rb" cela renvoie le message d'erreur :
+"exo_04.rb:1: unterminated string meets end of file
+puts "Salut, ça farte ?"
+
+Il manque un guillemet pour que le code fonctionne
