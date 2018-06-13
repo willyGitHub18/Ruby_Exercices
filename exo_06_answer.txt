@@ -1,0 +1,11 @@
+On commence par définir 3 variables et leur associe une valeur (ici un nombre)
+
+1- le nombre d'heures travaillées/jour
+2- le nombre de jours travaillés/semaine
+3- le nombre de semaines dans THP
+
+Ensuite on execute un "puts" afin d'afficher le texte "Travail" auquel s'ajoutera le résultat du calcul qui consiste à utiliser les variables plutôt que les valeurs.
+Le résultat du calcul peut s'afficher grâce à #{} qui concatenne.
+
+L'ajout de la dernière ligne de code entraine une erreur à l'exécution du fichier ruby. En effet, on ajoute une variable au calcul, celle du nombre de minutes dans une heure mais cette variable n'a jamais été définie.
+Le code ne peut donc pas fonctionner.
