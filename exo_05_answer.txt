@@ -1,0 +1,1 @@
+#{} permet de concatener un entier/nombre dans un string ainsi qu'un booléen
