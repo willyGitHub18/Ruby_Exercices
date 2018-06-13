@@ -1,0 +1,6 @@
+gets.chomp consiste à attendre un input de la part de l'utilisateur (ici son nom)
+gets.chomp va laisser la possibilité à l'utilisateur de taper un string (son nom) puis en faisant "Enter" cela définira ce string en tant que variable
+
+Dans le second programme on ajoute une ligne "print" qui va permettre de mettre un chevron en début de ligne afin de désigner à l'utilisateur l'espace de saisie avant d'utiliser sa saisie comme valeur de variable (comme pour le premier programme)
+
+Le troisième programme est très simpliste et propose directement la saisie à l'utilisateur sans lui donner d'indice sur ce que l'on veut qu'il saisisse (on utilise toujours sa saisie comme valeur de notre variable)
