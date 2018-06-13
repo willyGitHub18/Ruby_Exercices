@@ -4,4 +4,4 @@ user_name = gets.chomp
 puts "Merci, et puis-je connaître ton nom ?"
 print ">"
 user_surname = gets.chomp
-puts "Bonjour, #{user_name; user_surname}"
+puts "Bonjour, #{user_name} #{user_surname}"
