@@ -1,0 +1,2 @@
+puts renvoie à la ligne après chaque élément (dans le cas d'une boucle par exemple ou d'un tableau)
+print affiche sur la même ligne
